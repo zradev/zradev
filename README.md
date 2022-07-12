@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zradev
 - 👀 I’m interested in Web Development and blockchain.
-- 🌱 I’m currently learning HTML, CSS, Javascript and soon React.
+- 🌱 I’m currently learning HTML, CSS, Javascript and React.
 - 📫 How to reach me: email- zlatkoradevv@gmail.com
 
 <!---
